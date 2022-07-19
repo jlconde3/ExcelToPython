@@ -25,16 +25,3 @@ df_plot['Horas'] = df_plot['Horas'].cumsum()
 
 plt.bar(df_plot['Periodo'],df_plot['Horas'])
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
